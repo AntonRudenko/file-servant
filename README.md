@@ -1,6 +1,6 @@
 # file-servant
 
-This is one the little freelance projects that was done in 1 day and forget.
+This is one of the little freelance projects that was done in 1 day and forget.
 
 This applicatoon can:
 1. serve files located on server filesystem,
